@@ -1,6 +1,7 @@
 # blog-app
 
 <b><u>Getting Started</u></b>
+- npm install
 - npm run api
 - npm start
 
